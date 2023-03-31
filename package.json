@@ -1,0 +1,43 @@
+{
+  "name": "multicall-examples",
+  "version": "1.0.0",
+  "description": "In this repo you'll find examples related to multicall contract",
+  "main": "multicall.js",
+  "scripts": {
+    "erc20-allowance": "node muticall-erc20-allowance.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "muticall-examples"
+  },
+  "keywords": [
+    "multicall",
+    "makerdao",
+    "mutlicall",
+    "erc20",
+    "multicall",
+    "erc20",
+    "allowance",
+    "erc20",
+    "balance",
+    "multiple",
+    "wallet",
+    "address",
+    "balance",
+    "in",
+    "one",
+    "call",
+    "bulk",
+    "rpc",
+    "calls",
+    "in",
+    "single",
+    "request\""
+  ],
+  "author": "Fazil Khan",
+  "license": "ISC",
+  "dependencies": {
+    "@makerdao/multicall": "^0.12.0"
+  }
+}
